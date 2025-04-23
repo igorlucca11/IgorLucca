@@ -1,5 +1,5 @@
 <h1 align="center">Igor Lucca</h1>
-<p align="center">💻 Desenvolvedor Full Stack | PHP, JS, SQL Server, React, Node.js, C#, Python | Docker Lover</p>
+<p align="center">💻 Desenvolvedor Full Stack | JS, SQL Server, React, Node.js, PHP, C#, Python | Docker Lover</p>
 
 <p align="center">
   <a href="https://github.com/igorlucca">
